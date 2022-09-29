@@ -1,0 +1,406 @@
+
+2022-09-08 19:28:33,971 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 19:28:34,185 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 19:28:34,231 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,231 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,231 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,231 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,231 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,231 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,233 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,233 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:28:34,291 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 19:33:48,328 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 19:33:48,433 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 19:33:48,433 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 19:33:48,433 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,435 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,433 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:33:48,541 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 19:36:23,532 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 19:36:23,623 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 19:36:23,702 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,703 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:36:23,735 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 19:36:54,600 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54572]] Connected
+2022-09-08 19:36:54,668 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:37:13,489 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:37:34,368 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-08 19:37:40,922 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 19:37:40,993 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 19:37:40,993 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 19:37:40,996 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:40,996 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:37:41,100 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 19:42:59,680 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 19:42:59,792 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 19:42:59,850 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,850 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,851 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,851 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,851 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,852 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,852 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,852 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:42:59,909 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 19:43:14,385 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54737]] Connected
+2022-09-08 19:43:14,445 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:43:28,839 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-08 19:43:33,038 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 19:43:33,096 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 19:43:33,098 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 19:43:33,099 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,099 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:43:33,206 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 19:48:17,842 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 19:48:17,942 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 19:48:18,001 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,001 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,001 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,001 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,001 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,002 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,002 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,002 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:48:18,055 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 19:48:49,708 [3] [WARN ] [GameServer] ：Client[127.0.0.1:54927]] Connected
+2022-09-08 19:48:49,769 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:50:17,502 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:90
+2022-09-08 19:50:18,318 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 19:50:18,327 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 19:50:18,328 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 19:50:18,331 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,331 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:50:18,435 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 19:53:23,153 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 19:53:23,257 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 19:53:23,313 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,313 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,314 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,314 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,314 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,314 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,315 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,315 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 19:53:23,372 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 19:53:41,095 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55047]] Connected
+2022-09-08 19:53:41,150 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:53:47,408 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 19:54:02,842 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:19
+2022-09-08 19:54:21,773 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-08 19:54:39,698 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 19:54:39,775 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 19:54:39,776 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 19:54:39,778 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,778 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 19:54:39,883 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 20:02:40,280 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 20:02:40,452 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 20:02:40,494 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,494 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,494 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,494 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,495 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,495 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,520 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,520 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:02:40,564 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 20:02:56,760 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55174]] Connected
+2022-09-08 20:02:56,812 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:02:56,933 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:03:26,069 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 找不到网络路径。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:03:27,229 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:03:27,230 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:03:27,252 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 找不到网络路径。
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:03:44,272 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 20:03:44,314 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 20:03:44,315 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 20:03:44,318 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [14] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,318 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:03:44,422 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 20:09:07,226 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 20:09:07,374 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 20:09:07,435 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,436 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,436 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,437 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,437 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,473 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,473 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,473 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 20:09:07,495 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 20:09:21,824 [3] [WARN ] [GameServer] ：Client[127.0.0.1:55293]] Connected
+2022-09-08 20:09:21,887 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:09:22,014 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:09:23,748 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:09:23,750 [6] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:09:23,856 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:09:24,580 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:09:24,580 [6] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:09:24,601 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:09:24,777 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:09:24,778 [7] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:09:24,798 [7] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:09:24,957 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 20:09:24,958 [6] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 20:09:24,975 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:09:31,480 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 20:09:31,522 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 20:09:31,524 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 20:09:31,525 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:31,525 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:34,313 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-08 20:09:50,877 [5] [ERROR] [GameServer] ：Message handler exception:System.Data.SqlClient.SqlException (0x80131904): 在与 SQL Server 建立连接时出现与网络相关的或特定于实例的错误。未找到或无法访问服务器。请验证实例名称是否正确并且 SQL Server 已配置为允许远程连接。 (provider: Named Pipes Provider, error: 40 - 无法打开到 SQL Server 的连接) ---> System.ComponentModel.Win32Exception (0x80004005): 找不到网络路径。
+   在 System.Data.SqlClient.SqlInternalConnectionTds..ctor(DbConnectionPoolIdentity identity, SqlConnectionString connectionOptions, SqlCredential credential, Object providerInfo, String newPassword, SecureString newSecurePassword, Boolean redirectedUserInstance, SqlConnectionString userConnectionOptions, SessionData reconnectSessionData, DbConnectionPool pool, String accessToken, Boolean applyTransientFaultHandling, SqlAuthenticationProviderManager sqlAuthProviderManager)
+   在 System.Data.SqlClient.SqlConnectionFactory.CreateConnection(DbConnectionOptions options, DbConnectionPoolKey poolKey, Object poolGroupProviderInfo, DbConnectionPool pool, DbConnection owningConnection, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionFactory.CreatePooledConnection(DbConnectionPool pool, DbConnection owningObject, DbConnectionOptions options, DbConnectionPoolKey poolKey, DbConnectionOptions userOptions)
+   在 System.Data.ProviderBase.DbConnectionPool.CreateObject(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.UserCreateRequest(DbConnection owningObject, DbConnectionOptions userOptions, DbConnectionInternal oldConnection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   在 System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+ClientConnectionId:00000000-0000-0000-0000-000000000000
+Error Number:53,State:0,Class:20, 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 20:09:50,892 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 20:09:51,008 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-08 21:07:49,710 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-08 21:07:49,830 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-08 21:07:49,872 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,872 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-08 21:07:49,950 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-08 21:08:15,258 [3] [WARN ] [GameServer] ：Client[127.0.0.1:56080]] Connected
+2022-09-08 21:08:15,318 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 21:08:15,448 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 21:08:16,639 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-08 21:08:16,640 [6] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-08 21:08:16,740 [6] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 40
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-08 21:08:26,415 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-08 21:08:26,456 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-08 21:08:26,457 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-08 21:08:26,460 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [14] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:08:26,460 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-08 21:18:56,001 [1] [INFO ] [GameServer] ：Game Server Init

@@ -1,0 +1,14 @@
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\Common.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\Common.pdb
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\log4net.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\protobuf-net.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\Protocol.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\UnityEngine.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\Protocol.pdb
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\log4net.xml
+D:\GameWork\MyWarframe\Src\Lib\Common\bin\Debug\protobuf-net.xml
+D:\GameWork\MyWarframe\Src\Lib\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+D:\GameWork\MyWarframe\Src\Lib\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+D:\GameWork\MyWarframe\Src\Lib\Common\obj\Debug\Common.csproj.CopyComplete
+D:\GameWork\MyWarframe\Src\Lib\Common\obj\Debug\Common.dll
+D:\GameWork\MyWarframe\Src\Lib\Common\obj\Debug\Common.pdb

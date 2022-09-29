@@ -1,0 +1,9 @@
+D:\GameWork\MyWarframe\Src\Lib\Protocol\bin\Debug\Protocol.dll
+D:\GameWork\MyWarframe\Src\Lib\Protocol\bin\Debug\Protocol.pdb
+D:\GameWork\MyWarframe\Src\Lib\Protocol\bin\Debug\protobuf-net.dll
+D:\GameWork\MyWarframe\Src\Lib\Protocol\bin\Debug\protobuf-net.xml
+D:\GameWork\MyWarframe\Src\Lib\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+D:\GameWork\MyWarframe\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\GameWork\MyWarframe\Src\Lib\Protocol\obj\Debug\Protocol.csproj.CopyComplete
+D:\GameWork\MyWarframe\Src\Lib\Protocol\obj\Debug\Protocol.dll
+D:\GameWork\MyWarframe\Src\Lib\Protocol\obj\Debug\Protocol.pdb

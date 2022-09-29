@@ -1,0 +1,710 @@
+
+2022-09-14 19:39:09,605 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 19:39:09,710 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 19:39:09,875 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 19:39:09,876 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 19:39:09,876 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 19:39:09,878 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 19:39:09,879 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 19:39:09,891 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,947 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,947 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,947 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,947 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,947 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,974 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:09,974 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 19:39:10,003 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 19:39:39,695 [3] [WARN ] [GameServer] ：Client[127.0.0.1:51157]] Connected
+2022-09-14 19:39:39,759 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 19:39:39,882 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 19:39:44,857 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 19:40:36,523 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64758]] Connected
+2022-09-14 19:40:36,597 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 19:40:36,598 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 19:40:39,034 [10] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 19:41:07,723 [10] [WARN ] [GameServer] ：Client[127.0.0.1:64773]] Connected
+2022-09-14 19:41:07,783 [10] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 19:41:07,784 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 19:41:30,935 [10] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 19:53:38,240 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-14 19:53:38,263 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-14 19:53:38,263 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-14 19:53:38,264 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [13] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 19:53:38,264 [14] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:09:45,765 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:09:45,867 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:09:46,015 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:09:46,017 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:09:46,018 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:09:46,018 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:09:46,019 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:09:46,054 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,054 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,054 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,054 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,054 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,054 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,056 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,057 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:09:46,156 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:09:58,165 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64445]] Connected
+2022-09-14 20:09:58,227 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:11:43,229 [18] [WARN ] [GameServer] ：Client[127.0.0.1:64458]] Connected
+2022-09-14 20:11:43,230 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:177
+2022-09-14 20:11:43,311 [18] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 20:11:43,311 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 20:11:43,313 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:11:43,314 [10] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,314 [6] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:11:43,313 [7] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,314 [8] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,314 [11] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,316 [9] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,316 [12] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,517 [9] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [6] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 69
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [11] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [12] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [5] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 69
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [10] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,517 [7] [ERROR] [GameServer] ：Message handler exception:, 正在创建模型，此时不可使用上下文。如果在 OnModelCreating 方法内使用上下文或如果多个线程同时访问同一上下文实例，可能引发此异常。请注意不保证 DbContext 的实例成员和相关类是线程安全的。, EntityFramework,    在 System.Data.Entity.Internal.LazyInternalContext.InitializeContext()
+   在 System.Data.Entity.Internal.InternalContext.Initialize()
+   在 System.Data.Entity.Internal.InternalContext.GetEntitySetAndBaseTypeForType(Type entityType)
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.Initialize()
+   在 System.Data.Entity.Internal.Linq.InternalSet`1.get_InternalContext()
+   在 System.Data.Entity.Infrastructure.DbQuery`1.System.Linq.IQueryable.get_Provider()
+   在 System.Linq.Queryable.Where[TSource](IQueryable`1 source, Expression`1 predicate)
+   在 GameServer.Services.UserService.OnSignUp(NetConnection`1 sender, UserSignUpRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 42
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,663 [9] [INFO ] [GameServer] ：UserLoginRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:11:43,668 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1234 , Pwd : 123
+2022-09-14 20:11:43,751 [5] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 69
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:11:43,751 [9] [ERROR] [GameServer] ：Message handler exception:System.InvalidOperationException: 连接未关闭。 连接的当前状态为正在连接。
+   在 System.Data.ProviderBase.DbConnectionClosedConnecting.TryOpenConnection(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   在 System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   在 System.Data.SqlClient.SqlConnection.Open()
+   在 System.Data.Entity.Infrastructure.Interception.InternalDispatcher`1.Dispatch[TTarget,TInterceptionContext](TTarget target, Action`2 operation, TInterceptionContext interceptionContext, Action`3 executing, Action`3 executed)
+   在 System.Data.Entity.Infrastructure.Interception.DbConnectionDispatcher.Open(DbConnection connection, DbInterceptionContext interceptionContext)
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.<>c__DisplayClass1.<Execute>b__0()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.EntityClient.EntityConnection.Open(), 基础提供程序在 Open 上失败。, EntityFramework,    在 System.Data.Entity.Core.EntityClient.EntityConnection.Open()
+   在 System.Data.Entity.Core.Objects.ObjectContext.EnsureConnection(Boolean shouldMonitorTransactions)
+   在 System.Data.Entity.Core.Objects.ObjectContext.ExecuteInTransaction[T](Func`1 func, IDbExecutionStrategy executionStrategy, Boolean startLocalTransaction, Boolean releaseConnectionOnSuccess)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<>c__DisplayClass7.<GetResults>b__5()
+   在 System.Data.Entity.SqlServer.DefaultSqlExecutionStrategy.Execute[TResult](Func`1 operation)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.GetResults(Nullable`1 forMergeOption)
+   在 System.Data.Entity.Core.Objects.ObjectQuery`1.<System.Collections.Generic.IEnumerable<T>.GetEnumerator>b__0()
+   在 System.Data.Entity.Internal.LazyEnumerator`1.MoveNext()
+   在 System.Linq.Enumerable.FirstOrDefault[TSource](IEnumerable`1 source)
+   在 GameServer.Services.UserService.OnLogin(NetConnection`1 sender, UserLoginRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 69
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:12:10,247 [1] [INFO ] [GameServer] ：Game Server Exiting...
+2022-09-14 20:12:10,304 [1] [WARN ] [GameServer] ：Stop NetService...
+2022-09-14 20:12:10,305 [1] [WARN ] [GameServer] ：Stoping Message Handler...
+2022-09-14 20:12:10,305 [5] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [10] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [9] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [8] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [6] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [12] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [11] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,305 [7] [WARN ] [GameServer] ：MessageDistribute thread end
+2022-09-14 20:12:10,410 [1] [INFO ] [GameServer] ：Game Server Exited
+2022-09-14 20:14:34,856 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:14:34,970 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:14:35,182 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:14:35,185 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:14:35,185 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:14:35,186 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:14:35,187 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:14:35,226 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,228 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,228 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,228 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,273 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,273 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,273 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,273 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:14:35,328 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:14:49,401 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64535]] Connected
+2022-09-14 20:14:49,455 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:19
+2022-09-14 20:14:49,580 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 1234
+2022-09-14 20:14:52,751 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:14:52,752 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:14:52,898 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 20:18:02,604 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:18:02,764 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:18:02,992 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:18:02,995 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:18:02,995 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:18:02,995 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:18:02,998 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:18:03,064 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,064 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,064 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,065 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,066 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,066 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,066 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,066 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:18:03,129 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:18:12,995 [3] [WARN ] [GameServer] ：Client[127.0.0.1:64603]] Connected
+2022-09-14 20:18:13,057 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:19
+2022-09-14 20:18:13,181 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 1234
+2022-09-14 20:18:15,676 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:18:15,676 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:18:15,851 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:10
+2022-09-14 20:49:53,677 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:49:53,788 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:49:53,962 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:49:53,963 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:49:53,964 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:49:53,964 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:49:53,965 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:49:54,013 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,014 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,014 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,014 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,014 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,014 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,046 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,046 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:49:54,109 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:50:41,811 [3] [WARN ] [GameServer] ：Client[127.0.0.1:65184]] Connected
+2022-09-14 20:50:41,866 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:50:41,983 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-14 20:50:42,589 [13] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:50:42,593 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 20:53:40,389 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:53:40,497 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:53:40,670 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:53:40,672 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:53:40,673 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:53:40,673 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:53:40,675 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:53:40,712 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,712 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,712 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,737 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,737 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,737 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,737 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,737 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:53:40,784 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:53:54,401 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60717]] Connected
+2022-09-14 20:53:54,456 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:53:54,593 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:53:55,214 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 20:54:42,810 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 20:56:54,229 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:56:54,330 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:56:54,534 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:56:54,537 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:56:54,537 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:56:54,537 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:56:54,539 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:56:54,570 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,570 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,570 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,570 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,571 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,571 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,608 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,608 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:56:54,654 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:57:08,390 [3] [WARN ] [GameServer] ：Client[127.0.0.1:58999]] Connected
+2022-09-14 20:57:08,442 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:57:08,566 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-14 20:57:14,865 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:20
+2022-09-14 20:57:14,866 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 1234 , Pwd : 1234
+2022-09-14 20:57:14,951 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:57:14,953 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 20:57:40,471 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:57:40,567 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:57:40,724 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:57:40,726 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:57:40,728 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:57:40,728 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:57:40,730 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:57:40,772 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,772 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,773 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:40,878 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:57:46,133 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:57:46,232 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:57:46,383 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:57:46,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:57:46,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:57:46,385 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:57:46,386 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:57:46,419 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,419 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:57:46,505 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:57:57,699 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59029]] Connected
+2022-09-14 20:57:57,756 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:58:22,991 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:58:23,111 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:58:23,317 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:58:23,320 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:58:23,320 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:58:23,320 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:58:23,322 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:58:23,356 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,356 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,357 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,356 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,357 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,357 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,358 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,358 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:58:23,436 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:58:33,655 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59052]] Connected
+2022-09-14 20:58:33,719 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:58:33,845 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:58:34,561 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 20:58:53,167 [17] [WARN ] [GameServer] ：Client[127.0.0.1:59070]] Connected
+2022-09-14 20:58:53,170 [9] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:58:53,170 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 20:58:53,170 [3] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 20:58:55,966 [16] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 20:59:22,405 [5] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnGameEnter(NetConnection`1 sender, UserGameEnterRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 133
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:59:22,407 [6] [ERROR] [GameServer] ：Message handler exception:, 未将对象引用设置到对象的实例。, GameServer,    在 GameServer.Services.UserService.OnGameEnter(NetConnection`1 sender, UserGameEnterRequest request) 位置 D:\GameWork\MyWarframe\Src\Server\GameServer\GameServer\Services\UserService.cs:行号 133
+   在 Network.MessageDistributer`1.RaiseEvent[Tm](T sender, Tm msg) 位置 D:\GameWork\MyWarframe\Src\Lib\Common\Network\MessageDistributer.cs:行号 105
+2022-09-14 20:59:44,834 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 20:59:44,938 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 20:59:45,093 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 20:59:45,094 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 20:59:45,094 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 20:59:45,094 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 20:59:45,096 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 20:59:45,149 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,149 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,150 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,150 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,150 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,150 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,150 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,151 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 20:59:45,201 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 20:59:57,560 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59097]] Connected
+2022-09-14 20:59:57,624 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 20:59:57,774 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 1 , Pwd : 1
+2022-09-14 20:59:58,429 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 20:59:58,432 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 21:24:26,665 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 21:24:26,761 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 21:24:26,954 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 21:24:26,956 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 21:24:26,956 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 21:24:26,956 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 21:24:26,958 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 21:24:27,000 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,000 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,001 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,001 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,001 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,001 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,002 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,002 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:24:27,112 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 21:24:37,392 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59560]] Connected
+2022-09-14 21:24:37,439 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:24:37,572 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 2 , Pwd : 2
+2022-09-14 21:24:38,197 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:24:38,201 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 21:37:34,306 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 21:37:34,413 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 21:37:34,640 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 21:37:34,644 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 21:37:34,644 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 21:37:34,645 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 21:37:34,647 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 21:37:34,730 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,730 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,730 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,730 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,731 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,731 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,731 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,731 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:37:34,768 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 21:37:46,845 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59823]] Connected
+2022-09-14 21:37:46,902 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:37:47,028 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 123 , Pwd : 123
+2022-09-14 21:37:51,823 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:37:51,825 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 123 , Pwd : 123
+2022-09-14 21:37:51,986 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:37:51,988 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 21:44:37,047 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 21:44:37,165 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 21:44:37,374 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 21:44:37,381 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 21:44:37,382 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 21:44:37,382 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 21:44:37,383 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 21:44:37,430 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,430 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,432 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,431 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,456 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,456 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,456 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,456 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:44:37,543 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 21:44:52,038 [3] [WARN ] [GameServer] ：Client[127.0.0.1:59973]] Connected
+2022-09-14 21:44:52,094 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:44:52,220 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 1 , Pwd : 1
+2022-09-14 21:45:00,464 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:45:00,466 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 21:45:00,580 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:45:00,585 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 21:47:17,564 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 21:47:17,676 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 21:47:17,853 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 21:47:17,854 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 21:47:17,854 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 21:47:17,854 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 21:47:17,855 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 21:47:17,868 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,868 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,870 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,870 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,870 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,900 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,902 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,902 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:47:17,972 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 21:47:30,694 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60032]] Connected
+2022-09-14 21:47:30,746 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:47:30,865 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 1 , Pwd : 1
+2022-09-14 21:47:33,962 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:47:33,965 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 21:47:34,077 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 21:52:49,673 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 21:52:49,817 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 21:52:49,998 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 21:52:50,000 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 21:52:50,000 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 21:52:50,000 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 21:52:50,001 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 21:52:50,013 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,013 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,015 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,015 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,015 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,015 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,016 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,016 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 21:52:50,110 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 21:53:01,628 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60129]] Connected
+2022-09-14 21:53:01,683 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:53:01,828 [5] [INFO ] [GameServer] ：UserSignUpRequest : User : 1 , Pwd : 1
+2022-09-14 21:53:09,701 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 21:53:09,703 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 21:53:09,831 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 21:53:09,835 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 21:53:09,852 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:00:38,740 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:00:38,843 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:00:39,000 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:00:39,004 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:00:39,005 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:00:39,005 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:00:39,007 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:00:39,053 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,053 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,055 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:00:39,127 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:00:53,701 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60304]] Connected
+2022-09-14 22:00:53,767 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:00:53,896 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 2 , Pwd : 2
+2022-09-14 22:00:58,600 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:00:58,601 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:00:58,788 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:01:19,633 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:01:30,147 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:04:49,371 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:04:49,446 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:04:49,575 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:04:49,578 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:04:49,578 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:04:49,578 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:04:49,579 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:04:49,583 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,583 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:04:49,691 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:05:04,071 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:05:04,172 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:05:04,343 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:05:04,344 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:05:04,344 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:05:04,344 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:05:04,346 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:05:04,356 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,356 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,356 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,357 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,396 [16] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,396 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,396 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,395 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:05:04,454 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:05:14,310 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60420]] Connected
+2022-09-14 22:05:14,364 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:05:14,495 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:05:15,162 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:05:35,990 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:05:36,004 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:07:10,873 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:07:10,985 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:07:11,154 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:07:11,156 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:07:11,156 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:07:11,157 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:07:11,158 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:07:11,200 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,201 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,201 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,201 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,201 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,201 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,202 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,206 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:07:11,248 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60438]] Connected
+2022-09-14 22:07:11,272 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:07:12,597 [17] [WARN ] [GameServer] ：Client[] Disconnected
+2022-09-14 22:07:21,469 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60475]] Connected
+2022-09-14 22:07:21,529 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:07:21,672 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:07:22,348 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:07:28,744 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:07:28,755 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:09:20,968 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:09:21,108 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:09:21,334 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:09:21,336 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:09:21,336 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:09:21,336 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:09:21,338 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:09:21,375 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,375 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,375 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,375 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,375 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,375 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,376 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,376 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:09:21,447 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:09:30,336 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60531]] Connected
+2022-09-14 22:09:30,391 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:09:30,511 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:09:31,129 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:09:34,946 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:09:34,956 [5] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:12:41,832 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:12:42,021 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:12:42,378 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:12:42,381 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:12:42,381 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:12:42,381 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:12:42,384 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:12:42,483 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,483 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,484 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,517 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,517 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,517 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,517 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,517 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:12:42,624 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:12:59,596 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60606]] Connected
+2022-09-14 22:12:59,664 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:12:59,825 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:13:00,555 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:13:13,024 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 22:13:15,297 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:21:32,472 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:21:32,640 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:21:33,067 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:21:33,085 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:21:33,086 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:21:33,086 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:21:33,104 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:21:33,137 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,167 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,172 [14] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,172 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,172 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,173 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,172 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,174 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:21:33,225 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:21:57,692 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60773]] Connected
+2022-09-14 22:21:57,827 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:21:57,958 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:28:00,816 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 22:28:00,994 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 22:28:01,238 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 22:28:01,240 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 22:28:01,241 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 22:28:01,241 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 22:28:01,242 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 22:28:01,252 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,252 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,253 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,253 [13] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,255 [15] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,255 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,256 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,296 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 22:28:01,353 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 22:28:12,518 [3] [WARN ] [GameServer] ：Client[127.0.0.1:60862]] Connected
+2022-09-14 22:28:12,574 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 22:28:12,695 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 22:28:13,409 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 22:28:13,412 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 22:28:13,437 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 23:02:33,029 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 23:02:33,163 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 23:02:33,348 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 23:02:33,353 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 23:02:33,353 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 23:02:33,355 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 23:02:33,360 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 23:02:33,427 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,427 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,427 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,428 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,428 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,428 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,428 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,428 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:02:33,483 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 23:02:45,378 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61763]] Connected
+2022-09-14 23:02:45,444 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 23:02:45,585 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 23:02:46,400 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 23:02:46,404 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 23:02:55,551 [17] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 23:02:58,084 [6] [INFO ] [GameServer] ：sender.Session:Network.NetSession
+2022-09-14 23:03:55,251 [1] [INFO ] [GameServer] ：Game Server Init
+2022-09-14 23:03:55,425 [1] [INFO ] [GameServer] ：DataManager > DataManager()
+2022-09-14 23:03:55,577 [1] [INFO ] [GameServer] ：MapManager.Init > Map:1:MainRoom
+2022-09-14 23:03:55,578 [1] [INFO ] [GameServer] ：MapManager.Init > Map:2:中继站1
+2022-09-14 23:03:55,578 [1] [INFO ] [GameServer] ：MapManager.Init > Map:3:平原1
+2022-09-14 23:03:55,579 [1] [INFO ] [GameServer] ：MapManager.Init > Map:4:副本1
+2022-09-14 23:03:55,581 [1] [WARN ] [GameServer] ：Starting Listener...
+2022-09-14 23:03:55,626 [8] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,626 [6] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,626 [7] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,626 [9] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,627 [12] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,656 [11] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,656 [10] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,656 [5] [WARN ] [GameServer] ：MessageDistribute thread start
+2022-09-14 23:03:55,728 [1] [WARN ] [GameServer] ：NetService Started
+2022-09-14 23:04:05,887 [3] [WARN ] [GameServer] ：Client[127.0.0.1:61832]] Connected
+2022-09-14 23:04:05,942 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:14
+2022-09-14 23:04:06,063 [5] [INFO ] [GameServer] ：UserLoginRequest : User : 1 , Pwd : 1
+2022-09-14 23:04:06,752 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:18
+2022-09-14 23:04:06,756 [6] [INFO ] [GameServer] ：UserCreateCharacterRequest: Name:Player  Class:Warrior
+2022-09-14 23:04:11,394 [3] [WARN ] [GameServer] ：Client[] DataReceived Len:8
+2022-09-14 23:04:12,943 [6] [INFO ] [GameServer] ：sender.Session:

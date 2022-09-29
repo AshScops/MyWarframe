@@ -1,0 +1,34 @@
+{
+  "1": {
+    "ID": 1,
+    "Name": "MainRoom",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "MainRoom"
+  },
+  "2": {
+    "ID": 2,
+    "Name": "中继站1",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map01"
+  },
+  "3": {
+    "ID": 3,
+    "Name": "平原1",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map02"
+  },
+  "4": {
+    "ID": 4,
+    "Name": "副本1",
+    "Type": "Normal",
+    "SubType": "Normal",
+    "PKMode": false,
+    "Resource": "Map03"
+  }
+}
